@@ -32,7 +32,7 @@ CSVに以下の例のようなエントリを追加します。
 
 654,local/my-voice,これは独自音声です。
 
-CSVの記述方法通りに、通番,ファイル名,内容 を記述します。この例ではlocal/ディレクトリ下(ja/local)に配置します。配布している一式にはlocal/用のMakefileは入っています。
+CSVの記述方法通りに、通番,ファイル名,内容 を記述します。この例ではlocal/ディレクトリ下(ja/local)に配置します。
 local/のまま使う場合にはextenでPlayback(local/my-voice)のようにすると再生できます。
 
 
